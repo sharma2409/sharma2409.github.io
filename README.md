@@ -5,10 +5,12 @@ I am a mechanician who enjoys solving challenging problems in the field of mecha
 - Structural Computational Mechanics
 - Design Optimization
 - Additive Manufacturing
-- Mechanical Metamaterial Design
+- Metamaterial Design
+- Computational transport phenomenon
 # Skills
 - Non-Linear Finite Element Analysis
 - Topology Optimization
+- Reacting flow modeling (Cantera)
 - C++ Programming
 - MATLAB Programming
 - Python Programming
