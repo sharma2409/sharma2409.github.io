@@ -1,7 +1,7 @@
 ![Profile Pic](https://github.com/sharma2409/sharma2409.github.io/blob/master/download%20(2).png)
 
 # About Me 
-I am a mechanician who enjoys solving challenging problems in the field of mechanical engineering by employing computational tools and then validating results with experiments. I did my Masters of Science (MS) from Arizona State University under the tutelage of Dr. Dhruv Bhate as a member of the [3DX Research Group](https://3dxresearch.com/) I am currently looking of for an advisor to get a Ph.D. under, who shares my research interests and passion for solving such problems. I am targeting admission for Spring/Fall 2021 semesters.
+I am a mechanician who enjoys solving challenging problems in the field of mechanical engineering by employing computational tools and then validating results with experiments. I did my Masters of Science (MS) from Arizona State University under the tutelage of Dr. Dhruv Bhate as a member of the [3DX Research Group](https://3dxresearch.com/) I am currently looking of for an advisor to get a Ph.D. under, who shares my research interests and passion for solving such problems. I am targeting admission for the Spring/Fall 2021 semesters.
 
 # Research Interests
 1. Structural Computational Mechanics
@@ -16,6 +16,7 @@ I am a mechanician who enjoys solving challenging problems in the field of mecha
 4. C++ Programming
 5. MATLAB Programming
 6. Python Programming
+7. GNU/Linux Operating System
 
 # Projects (with code)
 ## Finite Element Analysis
