@@ -1,6 +1,6 @@
 ![Profile Pic](pic.png)
 # About Me 
-I am a mechanician who enjoys solving challenging problems in the field of mechanical engineering by employing computational tools and then validating results with experiments. I did my Masters of Science (MS) from Arizona State University under the tutelage of Dr. Dhruv Bhate as a member of the [3DX Research Group](https://3dxresearch.com/) I am currently looking of for an advisor to get a Ph.D. under, who shares my research interests and passion for solving such problems. I am targeting admission for the Spring/Fall 2021 semesters.
+I am a mechanician who enjoys solving challenging problems in the field of mechanical engineering by employing computational tools and then validating results with experiments. I did my Masters of Science (MS) from Arizona State University under the tutelage of Dr. Dhruv Bhate as a member of the [3DX Research Group](https://3dxresearch.com/). I am currently looking for an advisor for a Ph.D. degree, who shares my research interests and passion for solving such problems. I am targeting admission for the Spring/Fall 2021 semesters.
 # Research Interests
 1. Structural Computational Mechanics
 2. Design Optimization
