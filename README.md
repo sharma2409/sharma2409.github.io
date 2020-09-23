@@ -32,13 +32,4 @@ I am a mechanician who enjoys solving challenging problems in the field of mecha
 ### [linkedIn](https://www.linkedin.com/in/raghavsharma1993/)
   
 # Learn more about me
-  [Google Scholar](https://scholar.google.com/citations?user=qmnt5bgAAAAJ&hl=en)
-  
-  
-  
-  
-  
-
-
-
- 
+### [Google Scholar](https://scholar.google.com/citations?user=qmnt5bgAAAAJ&hl=en)
