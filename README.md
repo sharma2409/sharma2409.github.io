@@ -23,6 +23,7 @@ I am a mechanician who enjoys solving challenging problems in the field of mecha
 - [Stress constrained Topology Optimization](https://github.com/sharma2409/Stress-Constrained-TopOpt)
 ## Machine Learning
 - [Real time learning of Material Constitutive Models using Convolutional Neural Networks](https://github.com/sharma2409/Real-time-Learning-of-Material-Constitutive-Models-Using-Convolutional-Neural-Networks)
+# [CV](CV.pdf)
 # Publications
 - [R.Sharma, "An Investigation into the Stiffness Response of Lattice Shapes under various loading conditions"- MS thesis (2019)](https://github.com/sharma2409/sharma2409.github.io/blob/master/Sharma_ASU_Thesis.pdf)
 - [R.Sharma, T.Le, J.Song, E.Harms, D.Sowa, A.Grishin, D.Bhate, "A Comparison of Modeling Methods for Predicting the Elastic-Plastic Response of Addititvely Manufactured Honeycomb Structures", peer-reviewed proceddings, Solid Freeform Fabrication Symposium 2018](https://www.researchgate.net/profile/Dhruv_Bhate/publication/329681826_A_Comparison_of_Modeling_Methods_for_Predicting_the_Elastic-Plastic_Response_of_Additively_Manufactured_Honeycomb_Structures/links/5c150c174585157ac1c425ce/A-Comparison-of-Modeling-Methods-for-Predicting-the-Elastic-Plastic-Response-of-Additively-Manufactured-Honeycomb-Structures.pdf)
